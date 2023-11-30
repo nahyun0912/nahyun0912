@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=welcome-nl-nahyun's%20Github&fontSize=90&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome-nl-nahyun's%20Github&fontSize=90&fontColor=ffffff)
 <div align="center"> 
   
 #### 안녕하세요<br>백엔드 개발자를 꿈꾸는 김나현입니다.👩<br>
